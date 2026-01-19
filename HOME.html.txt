@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home | Taslima Nurhuda</title>
+    <title>Home | Taslima Nurhuda Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="home-page">
+<body>
     <nav>
         <div class="brand">TASLIMA NURHUDA</div>
         <ul class="menu">
@@ -14,16 +14,14 @@
             <li><a href="logo.html">Logo</a></li>
             <li><a href="typography.html">Typography</a></li>
             <li><a href="poster.html">Poster</a></li>
-            <li><a href="about.html">About/Contact</a></li>
         </ul>
     </nav>
 
-    <header class="hero-center">
-        <div class="content">
-            <h1 class="fade-in">Creative Portfolio</h1>
-            <p class="subtitle">Architecture Student | Visual Designer</p>
-            <div class="brand-highlight">MATCHA TALES Project</div>
-            <a href="logo.html" class="cta-button">Explore My Work</a>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Creative Portfolio</h1>
+            <p>Hi, I am Taslima Nurhuda, an undergraduate architecture student from Binus University. I have a strong interest in thoughtful and creative design. This website showcases my work on the <strong>Matcha Tales</strong> project.</p>
+            <a href="logo.html" class="btn">View My Work</a>
         </div>
     </header>
 </body>
