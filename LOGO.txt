@@ -1,13 +1,29 @@
-<section class="portfolio-detail">
-    <div class="container">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Logo Design | Matcha Tales</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="brand">TASLIMA NURHUDA</div>
+        <ul class="menu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="logo.html" class="active">Logo</a></li>
+            <li><a href="typography.html">Typography</a></li>
+            <li><a href="poster.html">Poster</a></li>
+        </ul>
+    </nav>
+
+    <section class="container">
         <h2>01. Logo Design</h2>
-        <div class="concept-box">
-            <p>The <strong>Matcha Tales</strong> logo is primarily focused on <strong>geometry and a modern approach</strong>. By using a quadrant-based system, the design reflects balance and the layered nature of the product.</p>
+        <p>The logo I created focuses on <strong>geometry and a modern approach</strong>. The quadrants represent the balance and layers of the brand.</p>
+        <div class="grid">
+            <div class="card"><img src="logo1.png" alt="Logo Variation 1"></div>
+            <div class="card"><img src="logo2.png" alt="Logo Variation 2"></div>
+            <div class="card"><img src="logo3.png" alt="Logo Mockup"></div>
         </div>
-        <div class="gallery-grid">
-            <div class="card"><img src="logo_geometric.png" alt="Geometric Logo Base"><h3>Geometric Foundation</h3></div>
-            <div class="card"><img src="logo_variant.png" alt="Logo Variation"><h3>Modern Variant</h3></div>
-            <div class="card"><img src="logo_mockup.png" alt="Logo on Cup"><h3>Realistic Application</h3></div>
-        </div>
-    </div>
-</section>
+    </section>
+</body>
+</html>
