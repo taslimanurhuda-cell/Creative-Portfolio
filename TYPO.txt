@@ -1,0 +1,18 @@
+<section class="portfolio-detail">
+    <div class="container">
+        <h2>02. Typography</h2>
+        <div class="concept-box">
+            <p>I utilized a combination of high-contrast serifs for elegance and bold sans-serifs for an architectural, grounded feel. This creates a visual voice that is both smooth and energetic.</p>
+        </div>
+        <div class="type-showcase">
+            <div class="type-row">
+                <span class="serif-sample">Taste the tales</span>
+                <p>Elegant Serif for Narrative</p>
+            </div>
+            <div class="type-row">
+                <span class="sans-sample">FEEL THE VIBE</span>
+                <p>Bold Sans for Impact</p>
+            </div>
+        </div>
+    </div>
+</section>

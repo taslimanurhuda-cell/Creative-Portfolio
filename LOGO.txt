@@ -1,0 +1,13 @@
+<section class="portfolio-detail">
+    <div class="container">
+        <h2>01. Logo Design</h2>
+        <div class="concept-box">
+            <p>The <strong>Matcha Tales</strong> logo is primarily focused on <strong>geometry and a modern approach</strong>. By using a quadrant-based system, the design reflects balance and the layered nature of the product.</p>
+        </div>
+        <div class="gallery-grid">
+            <div class="card"><img src="logo_geometric.png" alt="Geometric Logo Base"><h3>Geometric Foundation</h3></div>
+            <div class="card"><img src="logo_variant.png" alt="Logo Variation"><h3>Modern Variant</h3></div>
+            <div class="card"><img src="logo_mockup.png" alt="Logo on Cup"><h3>Realistic Application</h3></div>
+        </div>
+    </div>
+</section>
